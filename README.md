@@ -1,7 +1,7 @@
 ### ChatBot Tutorial for KISA
 
 > ChatBot Tutorial for KISA
-* KISA 챗봇 서 강의용 저장소입니다.
+* KISA 챗봇 서비스 개발 강의용 저장소입니다.
 
 ### Google Colab Notebook
 
